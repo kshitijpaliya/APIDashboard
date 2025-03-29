@@ -39,7 +39,8 @@ export default function LoginForm({ onLogin }) {
             Sign in to your account
           </h2>
           <p className="mt-2 text-center text-sm text-gray-600">
-            Use brand-a@example.com or brand-b@example.com
+            Use brand-a@example.com or brand-b@example.com and anything as
+            password!
           </p>
         </div>
         <form className="mt-8 space-y-6" onSubmit={handleSubmit}>
